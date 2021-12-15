@@ -1,0 +1,7 @@
+﻿  Classes.cpp
+D:\Dev\Course-Maze\Maze-Runner\Classes.cpp(468,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Dev\Course-Maze\Maze-Runner\Classes.cpp(575,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Course-Maze\Maze-Runner\Classes.cpp(720,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Maze-Runner.vcxproj -> D:\Dev\Course-Maze\Maze-Runner\x64\Debug\Maze-Runner.exe

@@ -1,0 +1,2 @@
+D:\Maze-Runner-master\Maze-Runner\x64\Debug\Maze-Runner.exe
+D:\Dev\Course-Maze\Maze-Runner\x64\Debug\Maze-Runner.exe
